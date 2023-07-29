@@ -5,7 +5,7 @@
 - 📫 How to reach me: www.linkedin.com/in/genesis-resto-3984a0284
 - ✨ Certifications:
                     - [https://coursera.org/share/a56d30bef303c51f4a560ea19784c833](https://www.coursera.org/account/accomplishments/certificate/8RJHBMVN3TMR)
-                    - https://coursera.org/verif y/B6ARPXY7JVZD
+                    
 
 <!---
 nizzyblu/nizzyblu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
